@@ -2,3 +2,4 @@
 - 目次
   - [会員登録](/page/00_signup)
   - [テナント作成](/page/01_tenant)
+  - [組織メンバーの招待](/page/02_organization)
