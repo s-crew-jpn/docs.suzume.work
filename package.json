@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "scripts": {
+        "docs": "npx docsify-cli@latest serve docs -p 4000",
+        "gen": "npx docsify generate docs -s _sidebar.md"
+    }
+}

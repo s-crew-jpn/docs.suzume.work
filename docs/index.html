@@ -17,13 +17,14 @@
             name: 'SUZUME.WORK',
             repo: '',                   // GitHub リポジトリURLがあれば入れる
             loadSidebar: true,          // _sidebar.md を読む
-            loadNavbar: true,           // _navbar.md を読む（ファイルが無ければ無視）
-            subMaxLevel: 2,             // 見出しの自動目次深さ
+            loadNavbar: false,           // _navbar.md を読む（ファイルが無ければ無視）
+            subMaxLevel: 3,             // 見出しの自動目次深さ
             search: {                   // クライアントサイド検索
                 paths: 'auto',
                 placeholder: '検索',
                 noData: '一致なし'
             },
+            alias: { '/.*/_sidebar.md': '/_sidebar.md' }, // ルートのサイドバーを全ページで使う
             themeColor: '#0ea5e9'       // お好みで
         };
     </script>

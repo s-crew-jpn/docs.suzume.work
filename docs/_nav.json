@@ -1,0 +1,13 @@
+{
+  "indexLabel": "概要",
+  "linkFolders": false,
+  "labels": {
+    "page": "目次",
+    "basic": "基本操作",
+    "advanced": "応用",
+    "doc": "ドキュメント",
+    "doc/README.md": "このセクションについて"
+  },
+  "hidden": ["_templates", "drafts", "img"],
+  "extHidden": ["_sidebar.md", "_navbar.md"]
+}

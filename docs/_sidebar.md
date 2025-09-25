@@ -1,8 +1,4 @@
-- SUZUME.WORK サービス利用ガイド
-  - [会員登録（サインアップ）](/#会員登録)
-- 基本操作
-  - [ログイン / ログアウト](basic/login.md)
-  - [プロフィール設定](basic/profile.md)
-- 応用
-  - [チーム招待](advanced/invite.md)
-  - [通知設定](advanced/notifications.md)
+- [SUZUME.WORK サービス利用ガイド](/)
+- 目次
+  - [会員登録](/page/00_signup)
+  - [テナント作成](/page/01_tenant)
