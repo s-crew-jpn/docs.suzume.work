@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>SUZUME.WORK サービス利用ガイド</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- テーマ（vue） -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
+</head>
+
+<body>
+    <div id="app"></div>
+
+    <script>
+        window.$docsify = {
+            name: 'SUZUME.WORK',
+            repo: '',                   // GitHub リポジトリURLがあれば入れる
+            loadSidebar: true,          // _sidebar.md を読む
+            loadNavbar: true,           // _navbar.md を読む（ファイルが無ければ無視）
+            subMaxLevel: 2,             // 見出しの自動目次深さ
+            search: {                   // クライアントサイド検索
+                paths: 'auto',
+                placeholder: '検索',
+                noData: '一致なし'
+            },
+            themeColor: '#0ea5e9'       // お好みで
+        };
+    </script>
+
+    <!-- Docsify 本体 -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <!-- プラグイン（検索、日本語向けトークナイズ含む） -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <!-- コードハイライト（必要に応じ言語追加） -->
+    <script src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-php.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/prismjs/components/prism-javascript.min.js"></script>
+</body>
+
+</html>
