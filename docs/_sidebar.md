@@ -1,5 +1,6 @@
 - [SUZUME.WORK サービス利用ガイド](/)
 - 目次
   - [会員登録](/page/00_signup)
-  - [テナント作成](/page/01_tenant)
+  - [テナント作成](/page/01_tenant_01)
+  - [テナントにメンバーを招待する](/page/01_tenant_02)
   - [組織メンバーの招待](/page/02_organization)
