@@ -76,7 +76,11 @@ Work の TOP ページのサイドメニューから「Settings」を押下し�
 
 ## チャットスペース
 
-Workhub 内のチャットスペースでは Work に所属しているメンバー間でその Work 内の連絡や会議などに使用できます。
+Work の TOP ページのサイドメニューがら「Chat」を押下します
+
+![](../img/work_side_chat_btn.png)
+
+以下のように Workhub 内のチャットスペースでは Work に所属しているメンバー間でその Work 内の連絡や会議などに使用できます。
 
 ![](../img/workhub_work_chat.png)
 
@@ -118,7 +122,7 @@ Workhub 内のチャットスペースでは Work に所属しているメンバ
 
 Work の TOP ページのサイドメニューから「Tickets」を押下します
 
-![](../img/workhub_work_ticket_btn.png)
+![](../img/work_side_ticket_btn.png)
 
 チケット一覧ページが表示されるので「チケット追加」を押下します
 
@@ -210,7 +214,7 @@ Work の TOP ページのサイドメニューから「Tickets」を押下しま
 
 Work の Top ページのサイドメニューから「Wiki」を押下します
 
-![](../img/workhub_wiki_btn.png)
+![](../img/work_side_wiki_btn.png)
 
 Wiki の一覧ページが表示されるので「最初の記事を作成する」を押下します（既に記事が作られている場合は「記事を追加」を押下）
 
