@@ -76,7 +76,7 @@ Work の TOP ページのサイドメニューから「Settings」を押下し�
 
 ## チャットスペース
 
-Work の TOP ページのサイドメニューがら「Chat」を押下します
+Work の TOP ページのサイドメニューから「Chat」を押下します
 
 ![](../img/work_side_chat_btn.png)
 
