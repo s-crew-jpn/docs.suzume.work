@@ -5,5 +5,5 @@
   - [テナントにメンバーを招待する](/page/01_tenant_02)
   - [組織メンバーの招待](/page/02_organization)
   - [WorkHub について](/page/03_workhub_01)
-  - [Forum について](page/04_forum)
+  - [Forum について](/page/04_forum)
   - [Members について](/page/05_members)
