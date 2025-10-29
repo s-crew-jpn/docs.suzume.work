@@ -8,3 +8,4 @@
   - [Forum について](/page/04_forum)
   - [Members について](/page/05_members)
   - [Org について](/page/06_org)
+  - [Profile について](/page/07_profile)
